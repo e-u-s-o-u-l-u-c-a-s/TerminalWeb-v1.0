@@ -3,10 +3,13 @@
 Shell Web
 
 Projeto desenvolvido em cima do projeto jqueryterminal v1.1.0 e adicionado jquery 2.2.4
+O ícone foi baixado do site https://www.flaticon.com/br/
     links:
         https://cdnjs.cloudflare.com/ajax/libs/jquery.terminal/1.1.0/js/jquery.terminal.min.js
         https://cdnjs.cloudflare.com/ajax/libs/jquery.terminal/1.1.0/css/jquery.terminal.min.css
         https://code.jquery.com/jquery-2.2.4.min.js
+        https://www.flaticon.com/br/icone-gratis/terminal-de-codigo_507618?term=terminal&page=1&position=10&origin=search&related_id=507618
+        
 
 ALERTA: Este Projeto Tem como objetivo criar e emular um terminal web para baixar programas e fazer testes/analises
       de segurança, com isso o programa não tem como objetivo ser usado para fins criminais, mas sim para estudos da área
