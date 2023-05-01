@@ -16,9 +16,11 @@ Web Shell
       da segurança da informação, portanto informo aqui que eu não me responsabilizo pelo mal uso deste software e qualquer problema
       o responsável por usar esta ferramenta deverá responder pelos seus atos!
 
-<br><br>OBS: O projeto não está finalizado, por tanto ele possui alguns problemas como responsividade!
+<br><br>OBS: 
+        <br>O projeto não está finalizado, por tanto ele possui alguns problemas como responsividade!
       Além disso, essa versão foi criada para dar uma base aos estudantes da área da segurança, por isso ele deve ser melhorado e modificado! 
       O arquivo de teste chamado (programa) que está zipado não possui nada, apenas serve como um exemplo de arquivo/programa para download! 
+        <br> Projeto testado no navegador do google chrome Versão 112.0.5615.138 (Versão oficial) 64 bits.
         
 <br><br>Funcionamento do sistema:
   <br>Ao entrar no sistema, você poderá executar alguns comandos já criados!
