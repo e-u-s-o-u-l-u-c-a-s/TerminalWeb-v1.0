@@ -29,7 +29,11 @@ Web Shell
       <br>projetos +   => Mostra uma lista de programas que existem na plataforma
       <br>Programa1 +  => Informa as informações do programa, como para serve
       <br>download +   => Este comando aplicado com o nome do arquivo/programa servirá para baixar o conteúdo
-      
+<br><br>
+    Tecla como a seta para cima e seta para baixo do teclado funcionam para chamar comandos digitados anteriormente.
+    <br> Caso digite algum comando não existente na plataforma, ela retornará um erro na cor vermelha!
+    <br> Error: (ReferenceError: s is not defined)
+    
     OBS: 
       Novos comandos podem ser criados!
       Comandos Podem ser ALTERADOS ou PERSONALIZADOS!
