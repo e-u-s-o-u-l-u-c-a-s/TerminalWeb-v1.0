@@ -58,7 +58,7 @@ jQuery(function($, undefined) {
       }
       else if (command == 'Programa1 +'){
         this.echo("\nPrograma1 (sistema de preparação de área de trabalho). Este programa tem como objetivo instalar e configurar automaticamente"+
-        "softwares de desenvolvimento e \nprogramas de análise de vulnerabilidade\n")
+        "softwares de desenvolvimento e programas de análise de vulnerabilidade\n")
       }
    
       else {
