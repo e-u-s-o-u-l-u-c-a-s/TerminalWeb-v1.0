@@ -1,6 +1,6 @@
 # TerminalWeb versão 1.0
 
-Shell Web
+Web Shell
 
 <br>Projeto desenvolvido em cima do projeto jqueryterminal v1.1.0 e adicionado jquery 2.2.4
 <br>O ícone foi baixado do site https://www.flaticon.com/br/
