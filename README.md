@@ -13,7 +13,7 @@ Web Shell
 
 <br><br>ALERTA: Este Projeto Tem como objetivo criar e emular um terminal web para baixar programas e fazer testes/analises
       de segurança, com isso o programa não tem como objetivo ser usado para fins criminais, mas sim para estudos da área
-      da segurança da informação, portanto informo aqui que o não que responsabilizo pelo mal uso deste software e qualquer problema
+      da segurança da informação, portanto informo aqui que eu não me responsabilizo pelo mal uso deste software e qualquer problema
       o responsável por usar esta ferramenta deverá responder pelos seus atos!
 
 <br><br>OBS: O projeto não está finalizado, por tanto ele possui alguns problemas como responsividade!
