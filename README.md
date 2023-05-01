@@ -20,12 +20,12 @@ OBS: O projeto não está finalizado, por tanto ele possui alguns problemas como
 Funcionamento do sistema:
   Ao entrar no sistema, você poderá executar alguns comandos já criados!
     Comandos:
-      help         => Exibe os comandos criados na plataforma e informam para que serve
-      --version    => Exibe a versão do software
-      clear        => Limpa o console com todas as informações anteriores
-      projetos +   => Mostra uma lista de programas que existem na plataforma
-      Programa1 +  => Informa as informações do programa, como para serve
-      download +   => 
+      \nhelp         => Exibe os comandos criados na plataforma e informam para que serve
+      \n--version    => Exibe a versão do software
+      \nclear        => Limpa o console com todas as informações anteriores
+      \nprojetos +   => Mostra uma lista de programas que existem na plataforma
+      \nPrograma1 +  => Informa as informações do programa, como para serve
+      \ndownload +   => 
       
     OBS: 
       Novos comandos podem ser criados!
