@@ -25,7 +25,7 @@ Funcionamento do sistema:
       <br>clear        => Limpa o console com todas as informações anteriores
       <br>projetos +   => Mostra uma lista de programas que existem na plataforma
       <br>Programa1 +  => Informa as informações do programa, como para serve
-      <br>download +   => 
+      <br>download +   => Este comando aplicado com o nome do arquivo/programa servirá para baixar o conteúdo
       
     OBS: 
       Novos comandos podem ser criados!
