@@ -19,7 +19,7 @@ OBS: O projeto não está finalizado, por tanto ele possui alguns problemas como
         
 Funcionamento do sistema:
   Ao entrar no sistema, você poderá executar alguns comandos já criados!
-    Comandos:
+    <br><br>Comandos:
       <br>help         => Exibe os comandos criados na plataforma e informam para que serve
       <br>--version    => Exibe a versão do software
       <br>clear        => Limpa o console com todas as informações anteriores
