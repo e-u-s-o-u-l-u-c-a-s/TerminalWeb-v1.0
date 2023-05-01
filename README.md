@@ -21,6 +21,7 @@ Web Shell
       Além disso, essa versão foi criada para dar uma base aos estudantes da área da segurança, por isso ele deve ser melhorado e modificado! 
       O arquivo de teste chamado (programa) que está zipado não possui nada, apenas serve como um exemplo de arquivo/programa para download! 
         <br> Projeto testado no navegador do google chrome Versão 112.0.5615.138 (Versão oficial) 64 bits.
+        <br> Execute o projeto por uma IDE, exemplo vscode, pois a função download + "nome do programa" pode não funcionar se executar direto!
         
 <br><br>Funcionamento do sistema:
   <br>Ao entrar no sistema, você poderá executar alguns comandos já criados!
